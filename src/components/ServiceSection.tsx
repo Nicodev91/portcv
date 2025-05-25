@@ -1,4 +1,4 @@
-import { Code, Database, Settings, Monitor, Shield, Headphones } from 'lucide-react';
+// import { Code, Database, Settings, Monitor, Shield, Headphones } from 'lucide-react';
 
 interface Service {
   icon: React.ReactElement;

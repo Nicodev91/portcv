@@ -2,6 +2,10 @@ import { Code, Database, Settings, Monitor, Shield, Headphones } from 'lucide-re
 import Navbar from './Navbar';
 import HeroSection from './HeroSection';
 import ServicesSection from './ServiceSection';
+import WhyChooseMe from './WhyChooseMe';
+import StatsSection from './StastSection';
+import CallToAction from './CallToAction';
+import Footer from './Footer';
 
 const services = [
   {
@@ -44,6 +48,12 @@ const ZedPortfolio = () => {
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-blue-900 to-slate-800">
       <Navbar />
       <HeroSection />
+      <ServicesSection services={services} />
+      <WhyChooseMe />
+      <StatsSection />
+      <CallToAction />
+      <Footer />
+
       
       {/* PASAR servicios como prop */}
       <ServicesSection services={services} />
