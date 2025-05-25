@@ -1,6 +1,6 @@
 const Navbar = () => (
     <nav className="flex justify-between items-center p-6 text-white">
-      <div className="text-2xl font-bold text-cyan-400">ZED.</div>
+      <div className="text-2xl font-bold text-cyan-400">Nicolás Dev</div>
       <div className="hidden md:flex space-x-8">
         <a href="#" className="hover:text-cyan-400 transition-colors">HOME</a>
         <a href="#" className="hover:text-cyan-400 transition-colors">PAGE ▼</a>
