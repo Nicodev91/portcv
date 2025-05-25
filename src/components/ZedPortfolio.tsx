@@ -46,6 +46,7 @@ const ZedPortfolio = () => {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-blue-900 to-slate-800">
+      {/*Implementacion de los componentes*/}
       <Navbar />
       <HeroSection />
       <ServicesSection services={services} />
@@ -58,7 +59,6 @@ const ZedPortfolio = () => {
       {/* PASAR servicios como prop */}
       <ServicesSection services={services} />
 
-      {/* resto del componente */}
     </div>
   );
 };
