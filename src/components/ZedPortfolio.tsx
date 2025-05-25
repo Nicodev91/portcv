@@ -1,5 +1,8 @@
 //import React from 'react';
 import { Code, Database, Settings, Monitor, Shield, Headphones, Award, Users, Clock, Star } from 'lucide-react';
+import Navbar from './Navbar';
+import HeroSection from './HeroSection';
+
 
 const ZedPortfolio = () => {
   const services = [
@@ -79,28 +82,9 @@ const ZedPortfolio = () => {
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-blue-900 to-slate-800">
       {/* Navigation */}
-      <nav className="flex justify-between items-center p-6 text-white">
-        <div className="text-2xl font-bold text-cyan-400">ZED.</div>
-        <div className="hidden md:flex space-x-8">
-          <a href="#" className="hover:text-cyan-400 transition-colors">HOME</a>
-          <a href="#" className="hover:text-cyan-400 transition-colors">PAGE ▼</a>
-          <a href="#" className="hover:text-cyan-400 transition-colors">WORKS ▼</a>
-          <a href="#" className="hover:text-cyan-400 transition-colors">ARTICLE & NEWS ▼</a>
-          <a href="#" className="hover:text-cyan-400 transition-colors">CONTACT US</a>
-        </div>
-        <button className="bg-white text-black px-4 py-2 rounded hover:bg-gray-200 transition-colors">
-          HIRE ME ▲
-        </button>
-      </nav>
-
+      <Navbar />
       {/* Hero Section */}
-      <div className="relative overflow-hidden">
-        <div className="absolute inset-0 bg-gradient-to-r from-purple-600/20 via-pink-500/20 to-cyan-500/20"></div>
-        <div className="relative text-center py-20 text-white">
-          <p className="text-lg mb-4 text-gray-300">I'M READY TO HELP YOU</p>
-          <h1 className="text-6xl font-bold mb-8">MY SERVICES</h1>
-        </div>
-      </div>
+      <HeroSection />
 
       {/* Services Section */}
       <div className="py-20 px-6 max-w-7xl mx-auto">
