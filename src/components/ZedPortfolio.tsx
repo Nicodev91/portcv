@@ -1,4 +1,4 @@
-import { Code, Database, Settings, Monitor, Shield, Headphones } from 'lucide-react';
+import { Code, Database, Settings, Monitor } from 'lucide-react';
 import Navbar from './Navbar';
 import HeroSection from './HeroSection';
 import ServicesSection from './ServiceSection';
