@@ -10,18 +10,18 @@ import Footer from './Footer';
 const services = [
   {
     icon: <Monitor className="w-10 h-10 text-cyan-400" />,
-    title: "Web Development",
+    title: "Desarrollador Web",
     description: "Creating modern and responsive websites using the latest technologies.",
     highlighted: true
   },
   {
     icon: <Code className="w-10 h-10 text-cyan-400" />,
-    title: "Software Development",
+    title: "Desarrollador de Software",
     description: "Building robust and scalable software solutions for various platforms.",
   },
   {
     icon: <Database className="w-10 h-10 text-cyan-400" />,
-    title: "Database Management",
+    title: "Bases de Datos SQL",
     description: "Designing and optimizing database structures for efficient data handling.",
   },
   {
@@ -29,16 +29,16 @@ const services = [
     title: "System Integration",
     description: "Seamlessly connecting different systems and applications.",
   },
-  {
-    icon: <Shield className="w-10 h-10 text-cyan-400" />,
-    title: "Security Solutions",
-    description: "Implementing robust security measures to protect digital assets.",
-  },
-  {
-    icon: <Headphones className="w-10 h-10 text-cyan-400" />,
-    title: "Technical Support",
-    description: "Providing reliable technical assistance and problem resolution.",
-  }
+  //{
+    //icon: <Shield className="w-10 h-10 text-cyan-400" />,
+    //title: "Security Solutions",
+    //description: "Implementing robust security measures to protect digital assets.",
+  //},
+  //{
+    //icon: <Headphones className="w-10 h-10 text-cyan-400" />,
+    //title: "Technical Support",
+    //description: "Providing reliable technical assistance and problem resolution.",
+  //}
 ];
 
 const ZedPortfolio = () => {
