@@ -1,4 +1,4 @@
-import React from 'react';
+//import React from 'react';
 import { Code, Database, Settings, Monitor, Shield, Headphones, Award, Users, Clock, Star } from 'lucide-react';
 
 const ZedPortfolio = () => {
