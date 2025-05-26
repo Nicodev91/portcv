@@ -29,16 +29,7 @@ const services = [
     title: "System Integration",
     description: "Seamlessly connecting different systems and applications.",
   },
-  //{
-    //icon: <Shield className="w-10 h-10 text-cyan-400" />,
-    //title: "Security Solutions",
-    //description: "Implementing robust security measures to protect digital assets.",
-  //},
-  //{
-    //icon: <Headphones className="w-10 h-10 text-cyan-400" />,
-    //title: "Technical Support",
-    //description: "Providing reliable technical assistance and problem resolution.",
-  //}
+  
 ];
 
 const ZedPortfolio = () => {
