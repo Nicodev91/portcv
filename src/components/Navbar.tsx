@@ -7,10 +7,10 @@ const Navbar = () => (
         <a href="#" className="hover:text-cyan-400 transition-colors">WORKS ▼</a>
         <a href="#" className="hover:text-cyan-400 transition-colors">ARTICLE & NEWS ▼</a>
         <a href="#" className="hover:text-cyan-400 transition-colors">CONTACT US</a>
+        <a href="curriculum.pdf" download className="bg-cyan-400 text-white px-4 py-2 rounded hover:bg-cyan-500 transition-colors ml-4">Descargar CV</a>
+      
       </div>
-      <button className="bg-white text-black px-4 py-2 rounded hover:bg-gray-200 transition-colors">
-        HIRE ME ▲
-      </button>
+       
     </nav>
   );
   
