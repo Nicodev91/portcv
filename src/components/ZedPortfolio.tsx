@@ -22,7 +22,7 @@ const services = [
   {
     icon: <Database className="w-10 h-10 text-cyan-400" />,
     title: "Bases de Datos SQL",
-    description: "Designing and optimizing database structures for efficient data handling.",
+    description: "Uso de gestores de bases de datos como PostgreSQL, MySQL y SQLite.",
   },
   {
     icon: <Settings className="w-10 h-10 text-cyan-400" />,
