@@ -11,7 +11,7 @@ const services = [
   {
     icon: <Monitor className="w-10 h-10 text-cyan-400" />,
     title: "Desarrollador Web",
-    description: "Creating modern and responsive websites using the latest technologies.",
+    description: "Creando modernos sitios web responsivos usando React + Vite y otras tecnologías.",
     highlighted: true
   },
   {
