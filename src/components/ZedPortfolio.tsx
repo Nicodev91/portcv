@@ -10,14 +10,14 @@ import Footer from './Footer';
 const services = [
   {
     icon: <Monitor className="w-10 h-10 text-cyan-400" />,
-    title: "Desarrollador Web",
-    description: "Creando modernos sitios web responsivos usando React + Vite y otras tecnologías.",
+    title: "Desarrollador Web Fullstack",
+    description: "Creando modernos sitios web responsivos utilizando React + Vite y otras tecnologías.",
     highlighted: true
   },
   {
     icon: <Code className="w-10 h-10 text-cyan-400" />,
     title: "Desarrollador de Software",
-    description: "Building robust and scalable software solutions for various platforms.",
+    description: "Desarrollo de aplicaciones de escritorio utilizando Python, NLP, Tkinter y más.",
   },
   {
     icon: <Database className="w-10 h-10 text-cyan-400" />,
