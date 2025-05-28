@@ -26,8 +26,8 @@ const services = [
   },
   {
     icon: <Settings className="w-10 h-10 text-cyan-400" />,
-    title: "System Integration",
-    description: "Seamlessly connecting different systems and applications.",
+    title: "Herramientas ",
+    description: "AWS - Docker - Git/Github - Tailwindcss - Flask - Django.",
   },
   
 ];
