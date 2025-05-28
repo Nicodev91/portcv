@@ -45,9 +45,9 @@ const ServicesSection = ({ services }: ServicesSectionProps) => (
 
     <div className="text-center">
       <button className="bg-gradient-to-r from-cyan-500 to-blue-500 text-white px-8 py-3 rounded-lg hover:from-cyan-600 hover:to-blue-600 transition-all mr-4">
-        PORTFOLIO MORE ►
+        Contactame ►
       </button>
-      <span className="text-cyan-400">📧 awesomemail@mail.com</span>
+      <span className="text-cyan-400">📧 nicolas.sebasec@gmail.com</span>
     </div>
   </div>
 );

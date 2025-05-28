@@ -6,6 +6,7 @@ import WhyChooseMe from './WhyChooseMe';
 import StatsSection from './StastSection';
 import CallToAction from './CallToAction';
 import Footer from './Footer';
+import WhatsAppButton from './ContactWhatsapp';
 
 const services = [
   {
@@ -45,6 +46,7 @@ const ZedPortfolio = () => {
       <StatsSection />
       <CallToAction />
       <Footer />
+      <WhatsAppButton />
 
     </div>
   );

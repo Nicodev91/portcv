@@ -6,7 +6,7 @@ const CallToAction = () => {
           Let's create something amazing. Contact me today and let's start your project!
         </p>
         <a
-          href="mailto:nicolas.sebastiano3@gmail.com"
+          href="mailto:nicolas.sebasec@gmail.com"
           className="inline-block bg-white text-cyan-600 font-semibold px-8 py-3 rounded-lg hover:bg-cyan-100 transition"
         >
           Get in Touch
