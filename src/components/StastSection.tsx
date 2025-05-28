@@ -4,7 +4,7 @@ const stats = [
   { label: "Experiencia en algoritmos", icon: Flame },
   { label: "Clientes conformes", icon: Smile },
   { label: "2 años de experiencia desarrollando", icon: AlarmClock },
-  { label: "100% de satisfacción", icon: CheckCircle },
+  { label: "Proyectos completados", icon: CheckCircle },
 ];
   
   const StatsSection = () => {
