@@ -46,10 +46,6 @@ const ZedPortfolio = () => {
       <CallToAction />
       <Footer />
 
-      
-      {/* PASAR servicios como prop */}
-      <ServicesSection services={services} />
-
     </div>
   );
 };
