@@ -2,9 +2,9 @@ import { CheckCircle } from 'lucide-react';
 
 const reasons = [
   "Experiencia en tecnologías modernas de desarrollo web.",
-  "Focus on clean, maintainable code.",
-  "Strong problem-solving skills.",
-  "Reliable and meets deadlines.",
+  "Precios accesibles.",
+  "Proyectos escalables.",
+  "Disponibilidad para solución de problemas.",
 ];
 
 const WhyChooseMe = () => {
@@ -13,7 +13,7 @@ const WhyChooseMe = () => {
       <div className="text-center mb-12">
         <h2 className="text-4xl font-bold mb-4">Por qué elegirme?</h2>
         <p className="text-gray-400 max-w-2xl mx-auto">
-          Here are some reasons why I stand out as a developer.
+          Aquí están algunos puntos a considerar.
         </p>
       </div>
 
