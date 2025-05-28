@@ -1,7 +1,7 @@
 import { CheckCircle } from 'lucide-react';
 
 const reasons = [
-  "Experienced in modern web technologies.",
+  "Experiencia en tecnologías modernas de desarrollo web.",
   "Focus on clean, maintainable code.",
   "Strong problem-solving skills.",
   "Reliable and meets deadlines.",
